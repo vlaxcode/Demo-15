@@ -10,4 +10,4 @@ Hypertext Markup Language (HTML) (укр. Мова розмітки гіперт
 
 ![alt-скриншот](https://github.com/vlaxcode/Demo-15/blob/master/Lab_1/Capture%20-%20Wireframe.cc.png?raw=true)
 
-Для розробки зарисунку (sketch) застосовано сервіс: (https://wireframe.cc/)  
+Для розробки зарисунку (sketch) застосовано сервіс: https://wireframe.cc/  
